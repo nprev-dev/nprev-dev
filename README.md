@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<h2>🛠️ Favorite Tools & Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,git,github,vscode,html,js,bash,tauri" />
+</p>
 <!--
 **nprev-dev/nprev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
