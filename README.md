@@ -1,10 +1,11 @@
 ## Hi there 👋
+## 🛠️ Favorite Tools & Technologies
 
-<h2>🛠️ Favorite Tools & Technologies</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,git,github,vscode,html,js,bash,tauri" />
-</p>
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=python" width="55"><br>Python | <img src="https://skillicons.dev/icons?i=fastapi" width="55"><br>FastAPI | <img src="https://skillicons.dev/icons?i=docker" width="55"><br>Docker | <img src="https://skillicons.dev/icons?i=linux" width="55"><br>Linux | <img src="https://skillicons.dev/icons?i=git" width="55"><br>Git |
+| <img src="https://skillicons.dev/icons?i=github" width="55"><br>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="55"><br>VS Code | <img src="https://skillicons.dev/icons?i=html" width="55"><br>HTML | <img src="https://skillicons.dev/icons?i=js" width="55"><br>JavaScript | <img src="https://skillicons.dev/icons?i=bash" width="55"><br>Bash |
+| <img src="https://skillicons.dev/icons?i=tauri" width="55"><br>Tauri | <img src="https://skillicons.dev/icons?i=windows" width="55"><br>Windows | <img src="https://skillicons.dev/icons?i=ollama" width="55"><br>Ollama |  |  |
 <!--
 **nprev-dev/nprev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
