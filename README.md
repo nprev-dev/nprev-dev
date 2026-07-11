@@ -1,6 +1,12 @@
-[![Follow](https://img.shields.io/github/followers/nprev-dev?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <a href="https://github.com/nprev-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/nprev-dev?style=for-the-badge&logo=github&label=Follow" />
+  </a>
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nprev-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nprev-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ## 🛠️ Favorite Tools & Technologies
 
 | | | | | | | | | | |
