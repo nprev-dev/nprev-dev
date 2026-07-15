@@ -4,6 +4,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+    <img height="150" src="https://beautiful-github-homepage.vercel.app/api?username=nprev-dev&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+    <img height="150" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=nprev-dev&layout=compact&theme=gotham&count_private=true" />
+  </a>
+</p>
+
 ## 🛠️ Favorite Tools & Technologies
 
 | | | | | | | | | | |
