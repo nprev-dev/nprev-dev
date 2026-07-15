@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 😄 I'm interested in LLMs/AI Infrastructure/HPC/Self-Hosting/MLOps/Distributed Systems.
+- 😄 I'm interested in LLMs/AI Infrastructure/HPC/Self-Hosting/MLOps/OSS/Distributed Systems.
 - 🌱 I’m currently learning Langchain and Mediachain
 
   
