@@ -17,7 +17,7 @@
 
 - 😄 I'm interested in LLMs/AI Infrastructure/HPC/Self-Hosting/MLOps/OSS.
 - 🌱 I’m currently learning Docker/Powershell/HTML/RUST and Self-Hosted Services
-
+- 📝 Next on roadmap Kubernetes/
   
 ## 🛠️ Favorite Tools & Technologies
 
